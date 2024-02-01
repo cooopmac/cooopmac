@@ -1,6 +1,6 @@
 # 💫 About Me:
 3rd Year computer science student @ the University of Guelph.<br><br>
-🔭 I’m currently working on GeoJobSearch, a web application designed to transform your job hunting journey<br>🌱 I’m currently learning NextJS. <br>💬 Ask me about full-stack development, any questions on creating modern, user-centric web apps.<br>⚡ Fun fact - Love to go to the gym and have an emphasis on continuous learning. 
+🔭 I’m currently working on GeoJobSearch, a web application designed to transform your job hunting journey.<br>🌱 I’m currently learning NextJS. <br>💬 Ask me about full-stack development, any questions on creating modern, user-centric web apps.<br>⚡ Fun fact - Love to go to the gym and have an emphasis on continuous learning. 
 
 
 ## 🌐 Socials:
