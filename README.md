@@ -1,6 +1,5 @@
 # 💫 About Me:
-3rd Year computer science student @ the University of Guelph.<br><br>
-🔭 I’m currently working on Crewly, a web application designed to transform job crew organization and planning.<br>🌱 I’m currently learning NextJS. <br>💬 Ask me about full-stack development, any questions on creating modern, user-centric web apps.<br>⚡ Fun fact - Love to go to the gym and have an emphasis on continuous learning. 
+New grad computer science from the University of Guelph.<br><br>
 
 
 ## 🌐 Socials:
