@@ -1,5 +1,5 @@
 New grad computer science from the University of Guelph.<br>
-Currently working on openjourney (its private, youll hear about it soon)...<br>
+Currently working on jrny. <br>
 I like trying and learning new things, so my repos will be a mixture of a lot.<br>
 Proficient in JavaScript, React, Java, C and C# for game dev.<br>
 
