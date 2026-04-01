@@ -1,6 +1,7 @@
-data engineer @ kpi sight\n
-founder of nourish app ($1k MRR)\n\n
+data engineer @ kpi sight  
+founder of nourish app ($1k MRR)  
 
 constantly trying to better myself.
+
 
 
