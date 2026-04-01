@@ -1,6 +1,6 @@
-weeknd connoissuer and lifter of heavy circles
-
 data engineer @ kpi sight
+founder of nourish app ($1k MRR)
 
+constantly trying to better myself.
 
 
